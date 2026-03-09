@@ -132,7 +132,7 @@ python main.py
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Future Improvements Can Include:
 
 - Add support for multiple cities
 - Add Airflow orchestration
